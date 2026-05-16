@@ -1,4 +1,4 @@
-const BASE = process.env.REACT_APP_API_URL;
+const BASE = process.env.VITE_API_URL;
 
 async function req(url, opts = {}) {
   const res = await fetch(BASE + url, opts);
