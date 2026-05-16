@@ -485,10 +485,6 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-## Live
-`Backend` - https://house-price-api-gmqr.onrender.com/docs
-`Frontend` - https://house-price-prediction-tksi-b9ogdxe0f.vercel.app/
-
 ## Author
 
 Built by **Roy** (Sagar) — B.Tech CSE · HFT & ML Systems  
