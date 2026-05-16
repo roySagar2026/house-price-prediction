@@ -102,7 +102,7 @@ app = FastAPI(title="India House Price Predictor API", version="2.0.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://house-price-prediction-tksi-b9ogdxe0f.vercel.app/"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
